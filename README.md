@@ -19,7 +19,7 @@
 
 🎓 **George Washington University**  
 - *Master's in Data Science (Aug 2023 - May 2025)*  
-- GPA: **3.89/4.0**
+
 
 🎓 **Indian Institute of Technology, Dharwad**  
 - *Bachelor's in Mechanical Engineering (Aug 2019 - May 2023)*  
